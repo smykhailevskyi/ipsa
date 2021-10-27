@@ -3,4 +3,4 @@ Second education
 
 # How to run
 `gcc` lab.c -o lab  
-./lab
+./lab value_one value_two
